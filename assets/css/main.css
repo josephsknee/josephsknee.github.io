@@ -1962,7 +1962,7 @@ button,
     transition: left 0.5s ease;
     -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
     border: 0;
-    display: block;
+    display: none;
     height: 7.5em;
     left: 26em;
     line-height: 7.5em;
@@ -1978,7 +1978,7 @@ button,
     #sidebar .toggle:before {
       -moz-osx-font-smoothing: grayscale;
       -webkit-font-smoothing: antialiased;
-      display: inline-block;
+      display: none;
       font-style: normal;
       font-variant: normal;
       text-rendering: auto;
