@@ -70,7 +70,7 @@
 				});
 
 	// Sidebar.
-		var $sidebar = $('#sidebar'),
+		var $sidebar = $(),
 			$sidebar_inner = $sidebar.children('.inner');
 
 		// Inactive by default on <= large.
