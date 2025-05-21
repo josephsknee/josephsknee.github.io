@@ -1,1 +1,1 @@
-This repository contains the materials for the site [josephsknee.github.io](https://josephsknee.github.io). The site is built using the Editorial template from [HTML5 Up](https://html5up.net), which allows free personal and commercial use under the CCA 3.0 license (html5up.net/license).
+This repository contains the materials for the site [josephsknee.github.io](https://josephsknee.github.io). The site is built using the Editorial template from [HTML5 Up](https://html5up.net), which allows free personal and commercial use under the CCA 3.0 license.
